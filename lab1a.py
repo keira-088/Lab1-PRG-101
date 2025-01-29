@@ -8,11 +8,8 @@
 
 # TO DO 1: Creating and using varibales
 # create a variable called message.
-m = message
 # Set the variable to equal to "Welcome to PRG101".
-message = "Welcome to PRG101"
 # Print the variable message using print() statement.
-print(m)
 # TO DO 2: Checking the type of a varibale
 # Use the builtin type() function and print the type of this variable.
 
